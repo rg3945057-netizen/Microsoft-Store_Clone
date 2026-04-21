@@ -1,34 +1,25 @@
-import { useEffect, useState } from "react";
 import GameCard from "../Components/GameCard";
-
-const API_KEY = "0a4e17ae0a3c4454abc1fd8a2b7b5d50";
+import gamesData from "../Data/games.json";
 
 export default function Games() {
-    const [games, setGames] = useState([]);
+  const allGames = [
+    ...gamesData.newNotableGames,
+    ...gamesData.bestSellingGames,
+    ...gamesData.puzzleGames,
+    ...gamesData.buildYourOwnWorld,
+    ...gamesData.topPaidGames,
+  ];
 
-    useEffect(() => {
-    fetch(`https://api.rawg.io/api/games?key=${API_KEY}`)
-    .then((res) => res.json())
-    .then((data) => {
-        setGames(data.results)})
-    ;
-    }, []);
-
-    return (
+  return (
     <div style={{ padding: "20px" }}>
-        <h2>Games</h2>
-
-        <div
-        style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
-            gap: "20px",
+      <h2>Games</h2>
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))", gap: "20px",
         }}
-        >
-        {games.map((game) => (
-            <GameCard key={game.id} game={game} />
+    >
+        {allGames.map((game, index) => (
+          <GameCard key={index} game={game} />
         ))}
-        </div>
+      </div>
     </div>
-    );
+  );
 }
