@@ -1,0 +1,442 @@
+{
+    "newNotableGames": [
+    {
+        "name": "Mage Castle Idle Defense",
+        "price": "Free",
+        "rating": 4.2,
+        "image": "apps.30242.13968794428044516.c5ec095b-fca3-4a96-a314-d2a03d030c28.462968ad-484f-4e65-ba08-2cc1840dedc0"
+    },
+    {
+        "name": "Call of Duty®",
+        "price": "Game Pass",
+        "rating": 3.5,
+        "image": "apps.42015.13966330883349940.e8d96f51-63dc-4377-8441-88d85afdd80a.d84cbd17-ae03-4537-8641-8c33c308de78"
+    },
+    {
+        "name": "NINJA GAIDEN 4 Standard Edition",
+        "price": "₹ 5,499.00",
+        "rating": 4.3,
+        "image": "apps.26007.14524843898704391.85a1bf00-ba10-44d9-90b4-d20f9cb73fb6.da3a1785-ad9e-463f-ae57-2ec1f5f94999"
+    },
+        {
+        "name": "The Outer Worlds 2",
+        "price": "₹ 5,499.00",
+        "rating": 3.2,
+        "image": "apps.1625.14086924108488409.5098cc78-dcb3-4bc1-858f-48fa36bb7026.82fc166e-9b79-4523-90d9-560ddb388864"
+    },
+    {
+        "name": "Fallout 4: Anniversary Edition",
+        "price": "₹ 4,199.00",
+        "rating": 3.5,
+        "image": "apps.61178.14199495301608061.222a9c4b-4b6c-4b60-bd5a-27c78c53c08a.6505cf67-b346-4060-8922-a83dbf9b9d74"
+    },
+    {
+        "name": "Lamplighter: Merge & Match",
+        "price": "Free",
+        "rating": 4.0,
+        "image": "apps.48453.13532001477554881.d9ccb73e-c8b0-42aa-bd04-40d370525f24.af305188-b947-4176-9493-3894a4238ada"
+    },
+    {
+        "name": "TropicVille",
+        "price": "Free",
+        "rating": 4.0,
+        "image": "apps.22667.13704820802656374.4ffa5b31-4001-4c9a-a2dc-df2e029ef49f.1a57579c-7fe7-45b8-8179-3f92239309b7"
+    },
+    {
+        "name": "Mahjong Social",
+        "price": "Free",
+        "rating": 4.0,
+        "image": "apps.58999.14124342075143797.c36d0f74-80dd-4769-922c-c409eb09abd3.cab51de4-5819-41f9-8b10-1feb01488c95"
+    },
+    {
+        "name": "Icebound Secrets 2: Soul Hunter - Hidden Objects Game",
+        "price": "Free",
+        "rating": 4.0,
+        "image": "apps.21782.13585527941255490.2e54d127-2f9b-4715-9402-cb80b6f28cd0.0ec58c76-3532-48ff-ae77-77e0157e8d90"
+    },
+    {
+        "name": "Solo Leveling: ARISE OVERDRIVE",
+        "price": "₹ 2,399.00",
+        "rating": 4.5,
+        "image": "apps.41366.13858861137035174.76da8517-7719-4de0-80ab-40e09a2e1aab.b99fec07-d815-491c-84ad-5afffff0c5fd"
+    },
+    {
+        "name": "Pigeon Simulator",
+        "price": "₹ 1,119.00",
+        "rating": 3.3,
+        "image": "apps.63629.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.69ed27fb-c1a2-4c19-a803-a9f289039e26"
+    },
+    {
+        "name": "Winter Burrow",
+        "price": "₹ 1,499.00",
+        "rating": 3.2,
+        "image": "apps.17059.13551922362408999.6a1ab142-ad0f-4a13-b0ba-9fcbb7182271.7ccb83f6-23a8-4dc2-af72-26b158ad9746"
+    }
+    ],
+
+    "bestSellingGames": [
+    {
+        "name": "Minecraft: Java & Bedrock Edition for PC",
+        "rating": 4.7,
+        "price": "₹ 2,605.00",
+        "image": "apps.808.14492077886571533.be42f4bd-887b-4430-8ed0-622341b4d2b0.c8274c53-105e-478b-9f4b-41b8088210a3"
+    },
+    {
+        "name": "Grand Theft Auto V Enhanced (PC)",
+        "rating": 4.3,
+        "price": "₹ 2,499.00",
+        "image": "apps.34539.13827124301078315.8451c006-d969-493e-b6bd-27c25b136528.934f20c2-9f4d-467a-9f30-7d3a14f2b26b"
+    },
+    {
+        "name": "Caesars Slots",
+        "rating": 3.7,
+        "price": "Free",
+        "image": "apps.49244.9007199266250702.955ef2fd-0cf0-40b9-9ec5-11067b564c90.6617e768-d4d5-4fef-8e62-965182b243ee"
+    },
+    {
+        "name": "Roblox - Windows",
+        "rating": 4.3,
+        "price": "Free",
+        "image": "apps.34317.14294982842551334.b7187202-d3a5-4d28-b184-10f299fc8103.88603b8f-680b-4e15-970b-6232d52e3468"
+    },
+    {
+        "name": "March of Empires",
+        "rating": 3.8,
+        "price": "Free",
+        "image": "apps.29548.13522891458778018.be877a6d-8f5b-4fc8-9855-22dba0f033db.a813dee3-1256-445d-9a93-617a269b30c3"
+    },
+    {
+        "name": "Grand Theft Auto V Enhanced (PC) and Great White Shark Card Bundle",
+        "rating": 4.2,
+        "price": "₹ 1,687.05",
+        "image": "apps.34539.14614495066919731.9492c222-e5d1-4feb-b0b1-ecbcaf7e453f.d573cd70-77e7-4897-bd18-23b4b5e1e077"
+    },
+    {
+        "name": "Asphalt Legends",
+        "rating": 4.7,
+        "price": "Free",
+        "image": "apps.15261.14471421918435459.ac5aea21-4fb1-43bd-a948-1b649d60da47.0b463801-158d-4814-9ba1-63d909ad334e"
+    },
+    {
+        "name": "Forza Horizon 5 Standard Edition",
+        "rating": 4.6,
+        "price": "₹ 3,999.00",
+        "image": "apps.49800.13718773309227929.bebdcc0e-1ed5-4778-8732-f4ef65a2f445.9ac09d39-064d-466c-81ca-2f1b6f0b95c5"
+    },
+    {
+        "name": "Cricket 26 - The Official Game of the Ashes",
+        "rating": 4.3,
+        "price": "₹ 4,399.00",
+        "image": "apps.62783.14013085416782408.0c71a501-7c8e-46be-8973-1b2bba50d4d8.a117c9e0-ccac-4d22-9fc8-789b79efcfc9"
+    },
+    {
+        "name": "Forza Horizon 6 Premium Edition",
+        "rating": 4.5,
+        "price": "₹ 9,699.00",
+        "image": "apps.60342.13547047233571036.013c5ec3-a5d7-4e8a-83e7-470299116376.2346f664-c01a-4b06-a92c-4819a43e8f75"
+    },
+    {
+        "name": "Crimson Desert",
+        "rating": 4.4,
+        "price": "₹ 4,499.00",
+        "image": "apps.45738.13616283370123336.55bc585b-1fc2-4652-8965-61111d6975e0.5236f2e9-a0f4-4fc1-8aba-dbf96b812b95"
+    },
+    {
+        "name": "Forza Horizon 5 Premium Edition",
+        "rating": 4.5,
+        "price": "₹ 6,599.00",
+        "image": "apps.23625.13806078025361171.9723cf5e-1e29-4d9d-ad0a-cc37a95bb75d.e02f4ead-d89b-45cd-8eb5-5dcbf44ae91f"
+    }
+    ],
+
+
+    "puzzleGames": [
+    {
+        "name": "Microsoft Jigsaw",
+        "rating": 4.1,
+        "price": "Free",
+        "image": "apps.63232.9007199266251897.eef78d86-067e-408e-9dd6-8c64277cfd2f.057c4af4-b7cb-4109-b5e7-24ffb49b1213"
+    },
+    {
+        "name": "Candy Crush Saga",
+        "rating": 4.2,
+        "price": "Free",
+        "image": "apps.54354.13510798882606697.7a42c472-75d7-487e-9538-ebb5ce1657e6.372723d8-dd1a-450a-9fed-d420e7705e4e"
+    },
+    {
+        "name": "Candy Crush Soda Saga",
+        "rating": 4.4,
+        "price": "Free",
+        "image": "apps.19770.13510798886202835.850647a4-273f-42dd-a98c-8504a5b01621.9a476f81-d96a-44be-b9b6-61553a331ec8"
+    },
+    {
+        "name": "Gardenscapes",
+        "rating": 4.4,
+        "price": "Free",
+        "image": "apps.60770.13812021519099434.f068b55c-4d16-4ce2-8262-e9c0664f958e.5c6783e4-17fb-4551-937b-029a3db36c7d"
+    },
+    {
+        "name": "Jewels of Rome: Match-3 and City Building Game!",
+        "rating": 4.2,
+        "price": "Free",
+        "image": "apps.61069.13643678564522369.30fe23ee-d8b8-4486-a0ad-5f6ae7ce95ff.d4eeb9f9-b60d-48b7-b55b-564e23a28321"
+    },
+    {
+        "name": "King of Puzzles",
+        "rating": 4.2,
+        "price": "Free",
+        "image": "apps.23522.14259485537537107.54344bf8-e0f8-44ac-95d7-1f01d543a88f.07a70590-bad2-4e02-be16-935a52cee1cf"
+    },
+    {
+        "name": "Amazing Squares",
+        "rating": 3.5,
+        "price": "Free",
+        "image": "apps.44911.14238012747661107.992cf795-c95b-4f68-94a2-c5b3b32b64be.c83db895-a117-412a-9b18-7cdfd64d200a"
+    },
+    {
+        "name": "Homescapes",
+        "rating": 4.6,
+        "price": "Free",
+        "image": "apps.36450.13777453757269044.2a023c41-bea8-4544-9de5-90b4c3997f5a.c61c59d5-0e3f-4af4-8554-d08801cf568e"
+    },
+    {
+        "name": "Clockmaker: Match 3 Puzzle Games",
+        "rating": 3.9,
+        "price": "Free",
+        "image": "apps.34171.14630344698051633.2e9a1111-2339-41a6-9944-ac07d0d98d23.1f4f3848-2753-4156-a3a1-56da92503315"
+    },
+    {
+        "name": "Jewels of the Wild West: Match 3 Puzzle Game",
+        "rating": 4.3,
+        "price": "Free",
+        "image": "apps.6510.13904840298912060.4a7a550a-2a8c-4e66-afb8-4e89dce59c67.6bc2329d-7bb4-4bab-82bd-57aa30cc64c1"
+    },
+    {
+        "name": "Cradle of Empires: Match 3 Puzzle Game & Jewels",
+        "rating": 4.5,
+        "price": "Free",
+        "image": "apps.40648.14164774940562399.746da912-8be7-46c6-9679-9e76db4a031f.edd9c16e-4fed-4fac-8468-a39347e1bbd2"
+    },
+    {
+        "name": "Jewels of Egypt: Match 3 Puzzle Game",
+        "rating": 4.2,
+        "price": "Free",
+        "image": "apps.23280.14369816566737439.a7ee06ee-4146-4a66-beb2-e8d8a7545dc4.12abd366-5ea7-4200-a43f-267d62f5c808"
+    }
+    ],
+
+    "buildYourOwnWorld": [
+    {
+        "name": "Township",
+        "category": "Simulation",
+        "rating": 4.7,
+        "price": "Free",
+        "image": "apps.64421.13510798884725076.b30ce452-8444-4303-a108-ca46b5391cd1.4a4e20b3-ca56-4adb-b6f5-848645eba52c"
+    },
+    {
+        "name": "Bermuda Adventures: Farm Games",
+        "category": "Action & adventure",
+        "rating": 4.2,
+        "price": "Free",
+        "image": "apps.2503.14584145983283580.025574ae-63ee-4ed1-bbf2-866da1a1f3aa.6ef38d37-28bc-49d2-9b6d-41da139f9d5d"
+    },
+    {
+        "name": "Disney Dreamlight Valley",
+        "category": "Simulation",
+        "rating": 4.1,
+        "price": "₹ 2,174.00",
+        "image": "apps.62890.14365104417622257.42e17a74-81d1-4e35-8c38-a935ba30ef21.80948ce2-63b2-49df-9e97-4ab247b81f10"
+    },
+    {
+        "name": "Cradle of Empires: Match 3 Puzzle Game & Jewels",
+        "category": "Classics",
+        "rating": 4.5,
+        "price": "Free",
+        "image": "apps.50516.14164774940562399.28cf5389-377e-4c4d-b36d-bf2c342ac7aa.6ab791a9-bc3e-4bac-9578-ec1f226a12bd"
+    },
+    {
+        "name": "Big Farm: Mobile Harvest",
+        "category": "Simulation",
+        "rating": 3.4,
+        "price": "Free",
+        "image": "apps.2139.14380149729470603.4ca9612b-545b-496e-ba7a-bc77e81adfbb.18d22fca-5caf-4628-a427-a3601953cd44"
+    },
+    {
+        "name": "The Tribez",
+        "category": "Simulation",
+        "rating": 4.5,
+        "price": "Free",
+        "image": "apps.55931.9007199266472074.6ff6dffc-3396-40c1-8f0f-496c43d10542.3821d20c-62cb-4257-bbeb-06f16c0c96f4"
+    },
+    {
+        "name": "Dragon City",
+        "category": "Simulation",
+        "rating": 4.6,
+        "price": "Free",
+        "image": "apps.64302.14098991041572765.24a22c10-771e-440c-b9aa-1522a505d4ba.0897949c-4f55-4c15-8fe2-e247cbae8743"
+    },
+    {
+        "name": "Mergest Kingdom Start Game",
+        "category": "Simulation",
+        "rating": 4.0,
+        "price": "Free",
+        "image": "apps.9990.14304431289019290.0056aee7-c8e0-4a07-a9a1-9baa64e32f5a.a0354807-c893-49ad-9eea-034a6e524984"
+    },
+    {
+        "name": "Disney Magic Kingdoms",
+        "category": "Simulation",
+        "rating": 4.0,
+        "price": "Free",
+        "image": "apps.7713.13510798886596800.57c27998-9141-4d90-a86c-794915fd103b.4a3f6869-6a7d-4e48-a304-7abf2301bfc7"
+    },
+    {
+        "name": "Operation: New Earth",
+        "category": "Simulation",
+        "rating": 3.9,
+        "price": "Free",
+        "image": "apps.14248.14193109004939536.8ef73146-5ccc-4c41-bb00-675ee4395038.48996e0b-9280-4d0a-8589-cfd3b01fe2c2"
+    },
+    {
+        "name": "Forge of Empires",
+        "category": "Simulation",
+        "rating": 3.8,
+        "price": "Free",
+        "image": "apps.50464.14018880429702282.8dc15fe4-f4a8-46a4-8cd7-d860c9f49b10.ba79636d-f24e-4a2d-a275-6f86482bb6d0"
+    },
+    {
+        "name": "Cooking Diary®: Restaurant Game",
+        "category": "Simulation",
+        "rating": 4.3,
+        "price": "Free",
+        "image": "apps.41154.13920371347656934.a1c76e75-1119-47af-9298-1ffa41c93ccb.a5f1c36f-f75a-4cd4-a5cc-b2cf18e2ccdd"
+    }
+    ],
+    "topPaidGames": [
+    {
+        "name": "Grand Theft Auto V Enhanced (PC)",
+        "rating": 4.3,
+        "price": "₹ 2,499.00",
+        "image": "apps.34539.13827124301078315.8451c006-d969-493e-b6bd-27c25b136528.934f20c2-9f4d-467a-9f30-7d3a14f2b26b"
+    },
+    {
+        "name": "Minecraft: Java & Bedrock Edition for PC",
+        "rating": 4.7,
+        "price": "₹ 2,605.00",
+        "image": "apps.808.14492077886571533.be42f4bd-887b-4430-8ed0-622341b4d2b0.c8274c53-105e-478b-9f4b-41b8088210a3"
+    },
+    {
+        "name": "Forza Horizon 5 Standard Edition",
+        "rating": 4.6,
+        "price": "₹ 3,999.00",
+        "image": "apps.49800.13718773309227929.bebdcc0e-1ed5-4778-8732-f4ef65a2f445.9ac09d39-064d-466c-81ca-2f1b6f0b95c5"
+    },
+    {
+        "name": "Grand Theft Auto V Enhanced (PC) and Great White Shark Card Bundle",
+        "rating": 4.2,
+        "price": "₹ 1,687.05",
+        "image": "apps.34539.14614495066919731.9492c222-e5d1-4feb-b0b1-ecbcaf7e453f.d573cd70-77e7-4897-bd18-23b4b5e1e077"
+    },
+    {
+        "name": "Among Us",
+        "rating": 4.4,
+        "price": "₹ 269.00",
+        "image": "apps.30063.13589262686196899.16e3418a-cbf2-4748-9724-1c9dc9b7a0b9.672da915-9117-4230-960d-4f59f3d7beb5"
+    },
+    {
+        "name": "FREE FIRE: Ultimate Multiplayer Shooting Experience",
+        "rating": 4.5,
+        "price": "₹ 149.00",
+        "image": "apps.17491.14231674443936363.831bbc2b-f0ed-414c-8721-aac6e7f7b9e6.66e8cebb-6ec7-4a54-9270-ef824901ee09"
+    },
+    {
+        "name": "Forza Horizon 5",
+        "rating": 4.6,
+        "price": "₹ 3,999.00",
+        "image": "apps.56329.13734397844529069.202e3fc9-37d6-4853-a58b-fabe504b71e8.b2447b97-7903-48de-8a49-9669d0495c4f"
+    },
+    {
+        "name": "Cricket 24: The Official Game Of The Ashes",
+        "rating": 3.4,
+        "price": "₹ 2,999.00",
+        "image": "apps.22369.13662804336614394.63dd49dd-f93b-4b67-b597-bace2d4550c2.d43b3619-c31e-41f2-9f53-e8b110203433"
+    },
+    {
+        "name": "Resident Evil Village",
+        "rating": 4.6,
+        "price": "₹ 2,399.00",
+        "image": "apps.56356.13946458263695761.43457946-df8c-4dc7-96ef-7ffc79bd1869.dc330229-0b8f-4260-9efc-a88249566e7c"
+    },
+    {
+        "name": "Palworld (Game Preview)",
+        "rating": 4.4,
+        "price": "₹ 1,624.00",
+        "image": "apps.64359.13654268679289325.5cd9109c-5095-44b3-a4a2-0bbf822058b7.d23fd29a-8afc-45bf-8ae4-20983e5ea746"
+    },
+    {
+        "name": "Carrom Disc Pool",
+        "rating": 3.8,
+        "price": "₹ 54.00",
+        "image": "apps.21102.14199795699488715.b04149d1-1ec5-43de-abf4-d87f73115f8f.9a13a854-a795-43f8-a60f-5fb447fba6c5"
+    },
+        {
+        "name": "RESIDENT EVIL 2",
+        "rating": 4.5,
+        "price": "₹ 2,949.99",
+        "image": "apps.36567.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.a8c614fc-0dcb-4788-89ed-958635753296"
+    },
+    {
+        "name": "Cricket 26 - The Official Game of the Ashes",
+        "rating": 4.3,
+        "price": "₹ 4,399.00",
+        "image": "apps.62783.14013085416782408.0c71a501-7c8e-46be-8973-1b2bba50d4d8.a117c9e0-ccac-4d22-9fc8-789b79efcfc9"
+    },
+    {
+        "name": "Car for Sale Simulator 2023 - Desktop",
+        "rating": 2.6,
+        "price": "₹ 939.00",
+        "image": "apps.61557.13650953803174676.cd3427fb-fdde-46ed-977a-763f9202d495.a4d96fee-434d-46a6-a347-0841ec7d2419"
+    },
+    {
+        "name": "Call of Duty®: Black Ops 7 - Cross-Gen Bundle",
+        "rating": 2.0,
+        "price": "₹ 5,999.00",
+        "image": "apps.54306.14316447222402733.7ce700b1-c1f1-4c72-a33b-ea4a18861dcb.1dd5c821-6d00-42ea-a890-8edab2f71e2c"
+    },
+    {
+        "name": "RESIDENT EVIL 3 for Windows",
+        "rating": 4.2,
+        "price": "₹ 2,249.00",
+        "image": "apps.52431.71880157815410720.768ba6e5-793f-45af-8f98-a14bc261e1c1.e0e59e64-4a76-4d37-9098-c1b8bf8d0d3c"
+    },
+    {
+        "name": "SnowRunner (Windows 10)",
+        "rating": 4.2,
+        "price": "₹ 1,199.00",
+        "image": "apps.25998.13728552621924096.0f7a693b-b178-499b-ac11-0ea8578f8480.88e6f480-29a4-44c0-8a97-cece69dc489e"
+    },
+    {
+        "name": "Call of Duty®: Black Ops 6 - Standard Edition (Windows)",
+        "rating": 2.6,
+        "price": "₹ 5,599.00",
+        "image": "apps.10491.14346543607136639.d932bf87-6edc-4da6-bbd5-c944ad33bc0d.f78757c0-6542-410f-a0cc-52fc592d79f1"
+    },
+    {
+        "name": "Farming Simulator 25 (PC)",
+        "rating": 5.0,
+        "price": "₹ 1,599.20",
+        "image": "apps.10230.14299110548313627.7e916051-145b-467d-9222-536b54bd914d.dc5e8877-ad6a-4363-a2c2-691cac6a8715"
+    },
+    {
+        "name": "Microsoft Flight Simulator 2024 - Standard Edition",
+        "rating": 2.7,
+        "price": "₹ 5,000.00",
+        "image": "apps.59000.14550648823552491.458517e5-6b50-4124-b28b-b87004bdb3d1.961d2dcc-23a2-4997-a317-7237e2d47bbc"
+    },
+    {
+        "name": "Sea of Thieves: 2026 Edition",
+        "rating": 4.0,
+        "price": "₹ 3,499.00",
+        "image": "apps.29206.14554784103656548.069efce3-9249-4074-a169-183b727043f8.03688f8c-edc0-416b-bebb-9d98a01c25f5"
+    }
+    ]
+}

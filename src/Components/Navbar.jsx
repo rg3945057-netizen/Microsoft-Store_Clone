@@ -17,7 +17,7 @@ export default function Navbar() {
         <Link to="/about">About</Link>
       </div>
 
-     
+
       <div className="nav-center">
         <input
           type="text"
