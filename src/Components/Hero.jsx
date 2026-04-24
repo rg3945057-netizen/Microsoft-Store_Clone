@@ -8,7 +8,7 @@ export default function Hero(prop) {
         <img src={prop.link1} alt="hero" />
 
         <div className="overlay">
-          <h1>The Grand Theft Auto V</h1>
+          <h1>{prop.text1}</h1>
           <p>Save up to 40%</p>
           <button>Show All</button>
         </div>
