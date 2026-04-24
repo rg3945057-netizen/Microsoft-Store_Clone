@@ -1,0 +1,75 @@
+.games-section {
+  padding: 20px 40px;
+  background: #0f0f0f;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.section-header h2 {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+}
+
+.scroll-btn {
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-size: 28px;
+  cursor: pointer;
+  padding: 0;
+  transition: transform 0.2s;
+}
+
+.scroll-btn:hover {
+  transform: scale(1.2);
+}
+
+.games-scroll {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  padding-bottom: 16px;
+  scroll-behavior: smooth;
+}
+
+.games-scroll::-webkit-scrollbar {
+  height: 8px;
+}
+
+.games-scroll::-webkit-scrollbar-track {
+  background: #1a1a1a;
+  border-radius: 10px;
+}
+
+.games-scroll::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 10px;
+}
+
+.games-scroll::-webkit-scrollbar-thumb:hover {
+  background: #666;
+}
+
+.games-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}
+
+@media (max-width: 768px) {
+  .games-section {
+    padding: 20px;
+  }
+
+  .games-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+}
