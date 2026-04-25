@@ -12,8 +12,8 @@ export default function Apps() {
         link4="https://images-eds-ssl.xboxlive.com/image?url=7flt5HU26ZSS3Tgted_TMty0wzqMQYpm03yD7eAPRtQBYO5dMlD18uZxNDuKXvpq84nfPXGfzu9nUBJAM0NDzq1KcODCrv_d8ouJ1FkaKFFvmF21jkw9BVBjSAzDSY0AfzLV1.DAMHJA74PgeC13qXQu1dy1rtLtk5ZQk7TOYHiGUYPeD69zDCiTD2YxmyPi&h=2160"
         text1="Best Entertainment Apps"
         text2="Best of App Pass"
-        text3="Top Paid Apps"
-        text4="Top Free Apps"
+        text3="▶ Top Paid Apps"
+        text4="▶ Top Free Apps"
       />
 
       <ScrollSection title="Popular Apps" data={data.apps.slice(0, 15)} />
