@@ -62,7 +62,7 @@
 /* SCROLL CONTAINER */
 .scroll-container {
   display: flex;
-  gap: 18px;
+  gap: 30px;
   overflow-x: auto;
   scroll-behavior: smooth;
   padding: 10px 2px;
