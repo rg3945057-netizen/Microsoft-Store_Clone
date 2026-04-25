@@ -13,7 +13,7 @@ export default function Apps() {
         text1="Best Entertainment Apps"
         text2="Best of App Pass"
         text3="▶ Top Paid Apps"
-        text4="▶ Top Free Apps"
+        text4="▶ Top Free Games"
       />
 
       <ScrollSection title="Popular Apps" data={data.apps.slice(0, 15)} />
