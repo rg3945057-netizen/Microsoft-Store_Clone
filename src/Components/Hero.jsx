@@ -23,7 +23,7 @@ export default function Hero(prop) {
         <div className="card large">
           <img src={prop.link2} alt="" />
           <div className="card-overlay">
-            <h2>Image Lab in ChatOn</h2>
+            <h2>{prop.text2}</h2>
             <button>Get</button>
           </div>
         </div>
@@ -33,14 +33,14 @@ export default function Hero(prop) {
           <div className="card small">
             <img src={prop.link3} alt="" />
             <div className="card-overlay">
-              <p>New P&ID System Symbols</p>
+              <p>{prop.text3}</p>
             </div>
           </div>
 
           <div className="card small">
             <img src={prop.link4} alt="" />
             <div className="card-overlay">
-              <p>Easy Invoice Generator</p>
+              <p>{prop.text4}</p>
             </div>
           </div>
         </div>

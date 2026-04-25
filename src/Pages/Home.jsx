@@ -18,6 +18,9 @@ export default function Home() {
         link3="https://images.unsplash.com/photo-1511512578047-dfb367046420"
         link4="https://images.unsplash.com/photo-1493711662062-fa541adb3fc8"
         text1="Beyond April Sale"
+        text2="Game Pass Ultimate--PC"
+        text3="VR Experience"
+        text4="Console Gaming"
       />
 
       {/* TRENDING SECTION */}
