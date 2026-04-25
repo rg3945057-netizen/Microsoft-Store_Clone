@@ -30,12 +30,11 @@ export default function Navbar() {
           alt="logo"
           className="logo"
         />
-        <span className="store-text"> Microsoft Store |</span>
+        <span className="store-text"> Microsoft Store</span>
 
         <Link to="/">Home</Link>
         <Link to="/apps">Apps</Link>
         <Link to="/games">Games</Link>
-        <Link to="/about">About</Link>
       </div>
 
       <div className="nav-center">

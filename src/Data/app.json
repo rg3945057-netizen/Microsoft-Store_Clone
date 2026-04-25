@@ -98,5 +98,195 @@
     { "id": 46, "name": "Microsoft Edge", "category": "Browser", "rating": 4.4, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:microsoft.com/edge" },
     { "id": 47, "name": "Microsoft Office 365", "category": "Productivity", "rating": 4.6, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:microsoft.com/office" },
     { "id": 48, "name": "VLC Media Player", "category": "Entertainment", "rating": 4.6, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:videolan.org" }
+    ,
+{ "id": 49, "name": "BGMI", "category": "Games", "rating": 4.1, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:battlegroundsmobileindia.com" },
+{ "id": 50, "name": "Free Fire MAX", "category": "Games", "rating": 4.2, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:ff.garena.com" },
+{ "id": 51, "name": "Clash Royale", "category": "Games", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:supercell.com" },
+{ "id": 52, "name": "Temple Run 2", "category": "Games", "rating": 4.4, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:imangistudios.com" },
+
+{ "id": 53, "name": "HealthifyMe", "category": "Health & Fitness", "rating": 4.4, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:healthifyme.com" },
+{ "id": 54, "name": "Cult.fit", "category": "Health & Fitness", "rating": 4.3, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:cult.fit" },
+
+{ "id": 55, "name": "BYJU'S", "category": "Education", "rating": 4.2, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:byjus.com" },
+{ "id": 56, "name": "Unacademy", "category": "Education", "rating": 4.3, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:unacademy.com" },
+
+{ "id": 57, "name": "Stack Overflow", "category": "Developer Tools", "rating": 4.4, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:stackoverflow.com" },
+{ "id": 58, "name": "Replit", "category": "Developer Tools", "rating": 4.4, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:replit.com" },
+
+{ "id": 59, "name": "Dailyhunt", "category": "News", "rating": 4.3, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:dailyhunt.in" },
+{ "id": 60, "name": "NDTV News", "category": "News", "rating": 4.1, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:ndtv.com" },
+
+{ "id": 61, "name": "Trello", "category": "Productivity", "rating": 4.5, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:trello.com" },
+{ "id": 62, "name": "Todoist", "category": "Productivity", "rating": 4.6, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:todoist.com" },
+
+{ "id": 63, "name": "IRCTC Rail Connect", "category": "Travel", "rating": 3.9, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:irctc.co.in" },
+{ "id": 64, "name": "RedBus", "category": "Travel", "rating": 4.2, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:redbus.in" },
+
+{ "id": 65, "name": "Ajio", "category": "Shopping", "rating": 4.2, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:ajio.com" },
+{ "id": 66, "name": "Tata Cliq", "category": "Shopping", "rating": 4.3, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:tatacliq.com" },
+
+{ "id": 67, "name": "Dunzo", "category": "Food", "rating": 4.1, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:dunzo.com" },
+{ "id": 68, "name": "Zepto", "category": "Food", "rating": 4.2, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:zeptonow.com" },
+
+{ "id": 69, "name": "Grammarly", "category": "AI & Productivity", "rating": 4.6, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:grammarly.com" },
+{ "id": 70, "name": "Perplexity AI", "category": "AI & Productivity", "rating": 4.6, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:perplexity.ai" },
+
+{ "id": 71, "name": "Apple Music", "category": "Music", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:music.apple.com" },
+{ "id": 72, "name": "Wynk Music", "category": "Music", "rating": 4.2, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:wynk.in" }
+
+,
+{ "id": 121, "name": "Kids YouTube", "category": "Kids", "rating": 4.3, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:youtubekids.com" },
+{ "id": 122, "name": "Kiddopia", "category": "Kids", "rating": 4.5, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:kiddopia.com" },
+
+{ "id": 123, "name": "Google Docs", "category": "Productivity", "rating": 4.7, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:docs.google.com" },
+{ "id": 124, "name": "Google Sheets", "category": "Productivity", "rating": 4.6, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:sheets.google.com" },
+
+{ "id": 125, "name": "Opera Browser", "category": "Browser", "rating": 4.4, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:opera.com" },
+{ "id": 126, "name": "Brave Browser", "category": "Browser", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:brave.com" },
+
+{ "id": 127, "name": "MX TakaTak", "category": "Social", "rating": 4.1, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:mxtakatak.com" },
+{ "id": 128, "name": "ShareChat", "category": "Social", "rating": 4.2, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:sharechat.com" },
+
+{ "id": 129, "name": "CoinDCX", "category": "Finance", "rating": 4.3, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:coindcx.com" },
+{ "id": 130, "name": "WazirX", "category": "Finance", "rating": 4.2, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:wazirx.com" },
+
+{ "id": 131, "name": "Photoshop Express", "category": "Photography", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:adobe.com" },
+{ "id": 132, "name": "Snapseed", "category": "Photography", "rating": 4.6, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:google.com" },
+
+{ "id": 133, "name": "VN Lite", "category": "Video Editing", "rating": 4.6, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:vnvideoeditor.com" },
+{ "id": 134, "name": "InShot", "category": "Video Editing", "rating": 4.5, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:inshot.com" },
+
+{ "id": 135, "name": "Flipboard", "category": "News", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:flipboard.com" },
+{ "id": 136, "name": "Reuters News", "category": "News", "rating": 4.5, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:reuters.com" },
+
+{ "id": 137, "name": "Gaana", "category": "Music", "rating": 4.3, "downloads": "200M+", "image": "https://logos-api.apistemic.com/domain:gaana.com" },
+{ "id": 138, "name": "Amazon Music", "category": "Music", "rating": 4.2, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:amazon.com" },
+
+{ "id": 139, "name": "PUBG Mobile", "category": "Games", "rating": 4.5, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:pubgmobile.com" },
+{ "id": 140, "name": "Call of Duty Mobile", "category": "Games", "rating": 4.6, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:callofduty.com" }
+,
+{ "id": 201, "name": "Chess.com", "category": "Games", "rating": 4.6, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:chess.com" },
+{ "id": 202, "name": "Lichess", "category": "Games", "rating": 4.7, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:lichess.org" },
+{ "id": 203, "name": "Mini Militia", "category": "Games", "rating": 4.3, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:minimilitia.com" },
+
+{ "id": 204, "name": "MyFitnessPal", "category": "Health & Fitness", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:myfitnesspal.com" },
+{ "id": 205, "name": "Calm", "category": "Health & Fitness", "rating": 4.6, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:calm.com" },
+
+{ "id": 206, "name": "edX", "category": "Education", "rating": 4.5, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:edx.org" },
+{ "id": 207, "name": "Udemy", "category": "Education", "rating": 4.6, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:udemy.com" },
+
+{ "id": 208, "name": "Figma", "category": "Design", "rating": 4.7, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:figma.com" },
+{ "id": 209, "name": "Sketch", "category": "Design", "rating": 4.5, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:sketch.com" },
+
+{ "id": 210, "name": "Medium", "category": "News", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:medium.com" },
+{ "id": 211, "name": "Feedly", "category": "News", "rating": 4.3, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:feedly.com" },
+
+{ "id": 212, "name": "Coinbase", "category": "Finance", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:coinbase.com" },
+{ "id": 213, "name": "Binance", "category": "Finance", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:binance.com" },
+
+{ "id": 214, "name": "Uber Eats", "category": "Food", "rating": 4.3, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:ubereats.com" },
+{ "id": 215, "name": "Dominos", "category": "Food", "rating": 4.2, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:dominos.com" },
+
+{ "id": 216, "name": "Airbnb", "category": "Travel", "rating": 4.6, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:airbnb.com" },
+{ "id": 217, "name": "Booking.com", "category": "Travel", "rating": 4.5, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:booking.com" },
+
+{ "id": 218, "name": "Notepad++", "category": "Developer Tools", "rating": 4.6, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:notepad-plus-plus.org" },
+{ "id": 219, "name": "IntelliJ IDEA", "category": "Developer Tools", "rating": 4.7, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:jetbrains.com" },
+
+{ "id": 220, "name": "Claude AI", "category": "AI & Productivity", "rating": 4.6, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:anthropic.com" },
+{ "id": 221, "name": "Character AI", "category": "AI & Productivity", "rating": 4.5, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:character.ai" },
+
+{ "id": 222, "name": "Firefox", "category": "Browser", "rating": 4.5, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:mozilla.org" },
+{ "id": 223, "name": "DuckDuckGo", "category": "Browser", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:duckduckgo.com" },
+
+{ "id": 224, "name": "MX Player Lite", "category": "Entertainment", "rating": 4.3, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:mxplayer.in" },
+{ "id": 225, "name": "Twitch", "category": "Entertainment", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:twitch.tv" }
+,
+{ "id": 261, "name": "PicsArt", "category": "Photography", "rating": 4.5, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:picsart.com" },
+{ "id": 262, "name": "Remini", "category": "Photography", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:remini.ai" },
+
+{ "id": 263, "name": "VSCO", "category": "Photography", "rating": 4.3, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:vsco.co" },
+
+{ "id": 264, "name": "Todo Mate", "category": "Productivity", "rating": 4.4, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:todomate.net" },
+{ "id": 265, "name": "TickTick", "category": "Productivity", "rating": 4.6, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:ticktick.com" },
+
+{ "id": 266, "name": "PayPal", "category": "Finance", "rating": 4.5, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:paypal.com" },
+{ "id": 267, "name": "Wise", "category": "Finance", "rating": 4.6, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:wise.com" },
+
+{ "id": 268, "name": "Foodpanda", "category": "Food", "rating": 4.3, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:foodpanda.com" },
+{ "id": 269, "name": "KFC App", "category": "Food", "rating": 4.2, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:kfc.com" },
+
+{ "id": 270, "name": "Expedia", "category": "Travel", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:expedia.com" },
+{ "id": 271, "name": "Skyscanner", "category": "Travel", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:skyscanner.net" },
+
+{ "id": 272, "name": "Unity Hub", "category": "Developer Tools", "rating": 4.5, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:unity.com" },
+{ "id": 273, "name": "Android Studio", "category": "Developer Tools", "rating": 4.6, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:developer.android.com" },
+
+{ "id": 274, "name": "Periscope", "category": "Social", "rating": 4.1, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:periscope.tv" },
+{ "id": 275, "name": "Clubhouse", "category": "Social", "rating": 4.2, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:clubhouse.com" }
+,
+{ "id": 401, "name": "Gaana Plus", "category": "Music", "rating": 4.3, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:gaana.com" },
+{ "id": 402, "name": "SoundCloud", "category": "Music", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:soundcloud.com" },
+
+{ "id": 403, "name": "Messenger", "category": "Communication", "rating": 4.3, "downloads": "5B+", "image": "https://logos-api.apistemic.com/domain:messenger.com" },
+{ "id": 404, "name": "Signal", "category": "Communication", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:signal.org" },
+
+{ "id": 405, "name": "Facebook", "category": "Social", "rating": 4.2, "downloads": "5B+", "image": "https://logos-api.apistemic.com/domain:facebook.com" },
+{ "id": 406, "name": "Reddit", "category": "Social", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:reddit.com" },
+
+{ "id": 407, "name": "Microsoft Teams Lite", "category": "Business", "rating": 4.3, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:microsoft.com" },
+{ "id": 408, "name": "Zoho Mail", "category": "Business", "rating": 4.4, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:zoho.com" },
+
+{ "id": 409, "name": "Evernote", "category": "Productivity", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:evernote.com" },
+{ "id": 410, "name": "Microsoft OneNote", "category": "Productivity", "rating": 4.6, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:microsoft.com" },
+
+{ "id": 411, "name": "Pixlr", "category": "Design", "rating": 4.4, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:pixlr.com" },
+{ "id": 412, "name": "Adobe Express", "category": "Design", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:adobe.com" },
+
+{ "id": 413, "name": "Lightroom Mobile", "category": "Photography", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:adobe.com" },
+{ "id": 414, "name": "Open Camera", "category": "Photography", "rating": 4.4, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:opencamera.org.uk" },
+
+{ "id": 415, "name": "Amazon Prime Music", "category": "Entertainment", "rating": 4.3, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:amazon.com" },
+{ "id": 416, "name": "Spotify Lite", "category": "Entertainment", "rating": 4.4, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:spotify.com" },
+
+{ "id": 417, "name": "Paytm Money", "category": "Finance", "rating": 4.3, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:paytm.com" },
+{ "id": 418, "name": "CRED", "category": "Finance", "rating": 4.4, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:cred.club" },
+
+{ "id": 419, "name": "McDonald's", "category": "Food", "rating": 4.2, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:mcdonalds.com" },
+{ "id": 420, "name": "Burger King", "category": "Food", "rating": 4.1, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:burgerking.com" },
+
+{ "id": 421, "name": "Goibibo", "category": "Travel", "rating": 4.3, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:goibibo.com" },
+{ "id": 422, "name": "Yatra", "category": "Travel", "rating": 4.1, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:yatra.com" },
+
+{ "id": 423, "name": "Coursera Lite", "category": "Education", "rating": 4.5, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:coursera.org" },
+{ "id": 424, "name": "Udacity", "category": "Education", "rating": 4.4, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:udacity.com" },
+
+{ "id": 425, "name": "GitLab", "category": "Developer Tools", "rating": 4.5, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:gitlab.com" },
+{ "id": 426, "name": "Bitbucket", "category": "Developer Tools", "rating": 4.4, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:bitbucket.org" },
+
+{ "id": 427, "name": "Candy Crush", "category": "Games", "rating": 4.5, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:king.com" },
+{ "id": 428, "name": "8 Ball Pool", "category": "Games", "rating": 4.4, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:miniclip.com" }
+,
+{ "id": 501, "name": "Resso", "category": "Music", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:resso.com" },
+{ "id": 502, "name": "Boomplay", "category": "Music", "rating": 4.3, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:boomplay.com" },
+{ "id": 503, "name": "Pandora", "category": "Music", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:pandora.com" },
+{ "id": 504, "name": "Deezer", "category": "Music", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:deezer.com" },
+{ "id": 505, "name": "Audiomack", "category": "Music", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:audiomack.com" }
+,
+{ "id": 520, "name": "Viber", "category": "Communication", "rating": 4.4, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:viber.com" },
+{ "id": 521, "name": "LINE", "category": "Communication", "rating": 4.3, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:line.me" },
+{ "id": 522, "name": "IMO", "category": "Communication", "rating": 4.2, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:imo.im" },
+{ "id": 523, "name": "KakaoTalk", "category": "Communication", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:kakao.com" }
+,
+{ "id": 540, "name": "BeReal", "category": "Social", "rating": 4.2, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:bereal.com" },
+{ "id": 541, "name": "Tumblr", "category": "Social", "rating": 4.3, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:tumblr.com" },
+{ "id": 542, "name": "WeChat", "category": "Social", "rating": 4.4, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:wechat.com" }
+,
+{ "id": 560, "name": "Microsoft Teams", "category": "Business", "rating": 4.4, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:microsoft.com" },
+{ "id": 561, "name": "Zoom Workplace", "category": "Business", "rating": 4.3, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:zoom.us" }
+,
+{ "id": 580, "name": "Google Keep", "category": "Productivity", "rating": 4.5, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:keep.google.com" },
+{ "id": 581, "name": "ClickUp", "category": "Productivity", "rating": 4.6, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:clickup.com" }
+
   ]
 }

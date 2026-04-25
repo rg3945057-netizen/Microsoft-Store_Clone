@@ -1,8 +1,8 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: white;
-  color: black;
+  background: #0e0e0e;   /* dark */
+  color: white;          /* text visible */
 }
 
 .navbar {
