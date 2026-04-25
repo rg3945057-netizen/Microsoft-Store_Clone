@@ -1,4 +1,54 @@
 {
+  "essentialApps": [
+    { "id": 41, "name": "Microsoft Copilot", "category": "Productivity", "rating": 4.7, "downloads": "10M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:microsoft.com/copilot" },
+    { "id": 22, "name": "LinkedIn", "category": "Business", "rating": 4.2, "downloads": "1B+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:linkedin.com" },
+    { "id": 42, "name": "Adobe Acrobat Reader DC", "category": "Productivity", "rating": 4.3, "downloads": "500M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:adobe.com" },
+    { "id": 43, "name": "Threads", "category": "Social", "rating": 4.7, "downloads": "100M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:threads.net" },
+    { "id": 44, "name": "BreeZip: RAR & ZIP", "category": "Utilities", "rating": 4.5, "downloads": "10M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:breezip.com" },
+    { "id": 45, "name": "Adobe Photoshop", "category": "Photography", "rating": 4.5, "downloads": "500M+", "price": "Paid", "image": "https://logos-api.apistemic.com/domain:adobe.com/photoshop" }
+  ],
+
+  "socialApps": [
+    { "id": 2, "name": "WhatsApp", "category": "Communication", "rating": 4.3, "downloads": "5B+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:whatsapp.com" },
+    { "id": 3, "name": "Instagram", "category": "Social", "rating": 4.4, "downloads": "2B+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:instagram.com" },
+    { "id": 13, "name": "Telegram", "category": "Communication", "rating": 4.4, "downloads": "1B+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:telegram.org" },
+    { "id": 14, "name": "Twitter", "category": "Social", "rating": 4.2, "downloads": "500M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:twitter.com" },
+    { "id": 21, "name": "Snapchat", "category": "Social", "rating": 4.3, "downloads": "1B+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:snapchat.com" },
+    { "id": 19, "name": "Discord", "category": "Communication", "rating": 4.5, "downloads": "100M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:discord.com" },
+    { "id": 20, "name": "Pinterest", "category": "Lifestyle", "rating": 4.4, "downloads": "500M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:pinterest.com" }
+  ],
+
+  "creatingApps": [
+    { "id": 6, "name": "Canva", "category": "Design", "rating": 4.7, "downloads": "100M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:canva.com" },
+    { "id": 7, "name": "Adobe Lightroom", "category": "Photography", "rating": 4.5, "downloads": "100M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:adobe.com/lightroom" },
+    { "id": 28, "name": "CapCut", "category": "Video Editing", "rating": 4.6, "downloads": "500M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:capcut.com" },
+    { "id": 29, "name": "KineMaster", "category": "Video Editing", "rating": 4.5, "downloads": "100M+", "price": "Paid", "image": "https://logos-api.apistemic.com/domain:kinemaster.com" },
+    { "id": 30, "name": "VN Editor", "category": "Video Editing", "rating": 4.7, "downloads": "100M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:vnvideoeditor.com" },
+    { "id": 45, "name": "Adobe Photoshop", "category": "Photography", "rating": 4.5, "downloads": "500M+", "price": "Paid", "image": "https://logos-api.apistemic.com/domain:adobe.com/photoshop" },
+    { "id": 5, "name": "Notion", "category": "Productivity", "rating": 4.6, "downloads": "50M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:notion.so" }
+  ],
+
+  "pcsAllDayBattery": [
+    { "id": 46, "name": "Microsoft Edge", "category": "Browser", "rating": 4.4, "downloads": "1B+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:microsoft.com/edge" },
+    { "id": 12, "name": "Netflix", "category": "Entertainment", "rating": 4.5, "downloads": "1B+", "price": "Paid", "image": "https://logos-api.apistemic.com/domain:netflix.com" },
+    { "id": 1, "name": "Spotify", "category": "Music", "rating": 4.5, "downloads": "1B+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:spotify.com" },
+    { "id": 48, "name": "VLC Media Player", "category": "Entertainment", "rating": 4.6, "downloads": "500M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:videolan.org" },
+    { "id": 16, "name": "Google Maps", "category": "Navigation", "rating": 4.6, "downloads": "5B+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:google.com" }
+  ],
+
+  "newReleases": [
+    { "id": 41, "name": "Microsoft Copilot", "category": "Productivity", "rating": 4.7, "downloads": "10M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:microsoft.com/copilot" },
+    { "id": 43, "name": "Threads", "category": "Social", "rating": 4.7, "downloads": "100M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:threads.net" },
+    { "id": 44, "name": "BreeZip: RAR & ZIP", "category": "Utilities", "rating": 4.5, "downloads": "10M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:breezip.com" },
+    { "id": 28, "name": "CapCut", "category": "Video Editing", "rating": 4.6, "downloads": "500M+", "price": "Free", "image": "https://logos-api.apistemic.com/domain:capcut.com" }
+  ],
+
+  "topPaid": [
+    { "id": 45, "name": "Adobe Photoshop", "category": "Photography", "rating": 4.5, "downloads": "500M+", "price": "Paid", "image": "https://logos-api.apistemic.com/domain:adobe.com/photoshop" },
+    { "id": 47, "name": "Microsoft Office 365", "category": "Productivity", "rating": 4.6, "downloads": "100M+", "price": "Paid", "image": "https://logos-api.apistemic.com/domain:microsoft.com/office" },
+    { "id": 29, "name": "KineMaster", "category": "Video Editing", "rating": 4.5, "downloads": "100M+", "price": "Paid", "image": "https://logos-api.apistemic.com/domain:kinemaster.com" }
+  ],
+
   "apps": [
     { "id": 1, "name": "Spotify", "category": "Music", "rating": 4.5, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:spotify.com" },
     { "id": 2, "name": "WhatsApp", "category": "Communication", "rating": 4.3, "downloads": "5B+", "image": "https://logos-api.apistemic.com/domain:whatsapp.com" },
@@ -10,7 +60,6 @@
     { "id": 8, "name": "Google Drive", "category": "Storage", "rating": 4.6, "downloads": "5B+", "image": "https://logos-api.apistemic.com/domain:google.com" },
     { "id": 9, "name": "Microsoft Word", "category": "Productivity", "rating": 4.4, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:microsoft.com" },
     { "id": 10, "name": "Duolingo", "category": "Education", "rating": 4.7, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:duolingo.com" },
-
     { "id": 11, "name": "Amazon", "category": "Shopping", "rating": 4.3, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:amazon.com" },
     { "id": 12, "name": "Netflix", "category": "Entertainment", "rating": 4.5, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:netflix.com" },
     { "id": 13, "name": "Telegram", "category": "Communication", "rating": 4.4, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:telegram.org" },
@@ -21,7 +70,6 @@
     { "id": 18, "name": "Slack", "category": "Business", "rating": 4.4, "downloads": "50M+", "image": "https://logos-api.apistemic.com/domain:slack.com" },
     { "id": 19, "name": "Discord", "category": "Communication", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:discord.com" },
     { "id": 20, "name": "Pinterest", "category": "Lifestyle", "rating": 4.4, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:pinterest.com" },
-
     { "id": 21, "name": "Snapchat", "category": "Social", "rating": 4.3, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:snapchat.com" },
     { "id": 22, "name": "LinkedIn", "category": "Business", "rating": 4.2, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:linkedin.com" },
     { "id": 23, "name": "Flipkart", "category": "Shopping", "rating": 4.4, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:flipkart.com" },
@@ -32,20 +80,23 @@
     { "id": 28, "name": "CapCut", "category": "Video Editing", "rating": 4.6, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:capcut.com" },
     { "id": 29, "name": "KineMaster", "category": "Video Editing", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:kinemaster.com" },
     { "id": 30, "name": "VN Editor", "category": "Video Editing", "rating": 4.7, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:vnvideoeditor.com" },
-
     { "id": 31, "name": "Google Photos", "category": "Photography", "rating": 4.6, "downloads": "5B+", "image": "https://logos-api.apistemic.com/domain:photos.google.com" },
     { "id": 32, "name": "Files by Google", "category": "Utilities", "rating": 4.5, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:files.google.com" },
     { "id": 33, "name": "Truecaller", "category": "Utilities", "rating": 4.4, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:truecaller.com" },
     { "id": 34, "name": "Weather", "category": "Weather", "rating": 4.3, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:weather.com" },
     { "id": 35, "name": "AccuWeather", "category": "Weather", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:accuweather.com" },
-
     { "id": 36, "name": "Google Pay", "category": "Finance", "rating": 4.5, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:pay.google.com" },
     { "id": 37, "name": "PhonePe", "category": "Finance", "rating": 4.6, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:phonepe.com" },
     { "id": 38, "name": "BHIM", "category": "Finance", "rating": 4.2, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:bhimupi.org" },
-
     { "id": 39, "name": "Zomato", "category": "Food", "rating": 4.4, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:zomato.com" },
-    { "id": 40, "name": "Swiggy", "category": "Food", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:swiggy.com" }
-
-    
+    { "id": 40, "name": "Swiggy", "category": "Food", "rating": 4.5, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:swiggy.com" },
+    { "id": 41, "name": "Microsoft Copilot", "category": "Productivity", "rating": 4.7, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:microsoft.com/copilot" },
+    { "id": 42, "name": "Adobe Acrobat Reader DC", "category": "Productivity", "rating": 4.3, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:adobe.com" },
+    { "id": 43, "name": "Threads", "category": "Social", "rating": 4.7, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:threads.net" },
+    { "id": 44, "name": "BreeZip: RAR & ZIP", "category": "Utilities", "rating": 4.5, "downloads": "10M+", "image": "https://logos-api.apistemic.com/domain:breezip.com" },
+    { "id": 45, "name": "Adobe Photoshop", "category": "Photography", "rating": 4.5, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:adobe.com/photoshop" },
+    { "id": 46, "name": "Microsoft Edge", "category": "Browser", "rating": 4.4, "downloads": "1B+", "image": "https://logos-api.apistemic.com/domain:microsoft.com/edge" },
+    { "id": 47, "name": "Microsoft Office 365", "category": "Productivity", "rating": 4.6, "downloads": "100M+", "image": "https://logos-api.apistemic.com/domain:microsoft.com/office" },
+    { "id": 48, "name": "VLC Media Player", "category": "Entertainment", "rating": 4.6, "downloads": "500M+", "image": "https://logos-api.apistemic.com/domain:videolan.org" }
   ]
 }
