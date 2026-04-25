@@ -1,0 +1,81 @@
+/* SECTION */
+.scroll-section {
+  padding: 30px 50px;
+  background: #ffffff;
+}
+
+/* DARK MODE */
+[data-theme="dark"] .scroll-section {
+  background: #0f0f0f;
+}
+
+/* HEADER */
+.scroll-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 18px;
+}
+
+.scroll-header h2 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #1a1a1a;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.scroll-header h2:hover {
+  opacity: 0.7;
+}
+
+[data-theme="dark"] .scroll-header h2 {
+  color: #ffffff;
+}
+
+/* BUTTONS */
+.scroll-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.scroll-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.scroll-btn:hover {
+  background: rgba(0, 0, 0, 0.85);
+}
+
+/* SCROLL AREA */
+.scroll-container {
+  display: flex;
+  gap: 18px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding-bottom: 10px;
+}
+
+/* HIDE SCROLLBAR */
+.scroll-container::-webkit-scrollbar {
+  display: none;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .scroll-section {
+    padding: 20px;
+  }
+
+  .scroll-header h2 {
+    font-size: 18px;
+  }
+}
