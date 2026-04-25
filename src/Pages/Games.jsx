@@ -22,6 +22,10 @@ export default function Games() {
           link2="https://images-eds-ssl.xboxlive.com/image?url=7flt5HU26ZSS3Tgted_TMty0wzqMQYpm03yD7eAPRtQBYO5dMlD18uZxNDuKXvpqPkHVQYdY3_GOD9HWXXAWAw.1necBrCXu_vBw7hb0TaFFYWlVIvDZoFAcbtO_A2RbomE28wfPLXBjoMcbRje_w.fxK8r3s8Wfds3XtbMHBodVu_GU2ZhInq2ix_rcApx.55UjxoO4Vh2KgtNarag5dCzglkcvPjd4.gM92aCdvBk-&h=2160"
           link3="https://images-eds-ssl.xboxlive.com/image?url=7flt5HU26ZSS3Tgted_TMty0wzqMQYpm03yD7eAPRtQBYO5dMlD18uZxNDuKXvpq07Ih7oFbRKKOE.ITZGY6MjrMZtkfQqj.G90ewFki0ahYrate0_Sj0pwphAUYj7ldwIbuT8zzpKvFmNElZJbbLc2sRf07d8_ObTbV_kb_BmDUI2HxQPdOBljWZ2PQujy6dgPTAIi7mwv9UekZOE2aLA--&h=2160"
           link4="https://images-eds-ssl.xboxlive.com/image?url=7flt5HU26ZSS3Tgted_TMty0wzqMQYpm03yD7eAPRtQBYO5dMlD18uZxNDuKXvpq4RPNo2z7AxoQ1Q0RyUETfh6niBQiu.h1IlTH2cMOArPpiwAef3cMW3.q0hsw45_2IdLkK3XmDuo8_dSfA2x7mUZB3bCl7OSd8lnFgMwNRDvh6BYfHeeeMNNkC.9Tyax7vyjs4.ZfI9XqhVDsdYFXRANSDWGMu1fTpwQ9Ry78SGU-&h=2160"
+          text1="Hades II'"
+          text2="ID@Xbox UnHallween Sale"
+          text3="Conquer The World"
+          text4="Something Survived in '85"
         />
       </div>
 
